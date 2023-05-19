@@ -1,0 +1,7 @@
+https://dev.signulu.com/index1.php/api/jobs/account/finaldocsent
+https://dev.signulu.com/index1.php/api/users/current/userInfo
+https://dev.signulu.com/index1.php/api/adocuments/countries
+https://dev.signulu.com/index1.php/api/users/list/floder/{folderId}
+https://dev.signulu.com/index1.php/api/adocuments/update/recipients/info/{documentId}
+https://dev.signulu.com/index1.php/api/adocuments/{documentId}
+https://dev.signulu.com/index1.php/api/adocuments/download/{pdf}
